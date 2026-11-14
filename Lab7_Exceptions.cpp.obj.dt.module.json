@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab7_Exceptions\\x64\\Debug\\Lab7_Exceptions.obj",
+            "outputs": [
+                "Lab7_Exceptions\\x64\\Debug\\Lab7_Exceptions.cpp.obj.dt.module.json",
+                "Lab7_Exceptions\\x64\\Debug\\Lab7_Exceptions.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
